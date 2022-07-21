@@ -7,7 +7,6 @@
 - 👯 I’m looking to collaborate on Activiti
 - 🤔 I’m looking for help with [《Java成神之路》](https://hollischuang.github.io/toBeTopJavaer/#/)
 - 💬 Ask me about Java Programming
-- 📫 How to reach me: 18865386773@163.com
 
 
 
